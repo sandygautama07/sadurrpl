@@ -1,5 +1,0 @@
-nim   : 1811500030
-nama  : Sandy Gautama
-kelompok : TI6A
-
-Hasil saya Menyadur hari ini :
